@@ -188,7 +188,7 @@ This project demonstrates an end-to-end analytics workflow coveringdata cleaning
 
 👤 Author
 
-Maeen Uddin
+Mehedi Hasan Zisan
 
 Data Analytics Portfolio Project
 
